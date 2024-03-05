@@ -1,0 +1,2 @@
+Set-ExecutionPolicy Remotesigned -scope Process
+.\envjarvis\Scripts\activate
